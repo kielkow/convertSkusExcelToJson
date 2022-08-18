@@ -1,16 +1,17 @@
 const fs = require('fs');
 const CSVToJSON = require('csvtojson');
 
-CSVToJSON().fromFile('skus.csv')
-    .then(skus => {
-        let allSkus = skus;
-        let allFormattedSkus = [];
+CSVToJSON().fromFile('file_csv.csv')
+    .then(items => {
+        const data_format = items.map(item => ({
+            vtex_table: Number(item.vtex_table),
+            channel_sap: Number(item.channel_sap),
+            documentType: Number(item.documentType),
+            payerCode: Number(item.payerCode),
+            intermediatorCnpj: Number(item.intermediatorCnpj),
+        }));
 
-        while (allSkus.length) {
-            allFormattedSkus.push(allSkus.splice(0, 39).map(sku => sku.refId));
-        }
-
-        fs.writeFile('skus.json', JSON.stringify(allFormattedSkus, null, 4), (err) => {
+        fs.writeFile('file_json.json', JSON.stringify(data_format, null, 4), (err) => {
             if (err) {
                 throw err;
             }

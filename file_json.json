@@ -1,0 +1,324 @@
+[
+    {
+        "vtex_table": 1,
+        "channel_sap": 4764710,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 3,
+        "channel_sap": 4764713,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 54,
+        "channel_sap": 4764720,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 2,
+        "channel_sap": 4764710,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 17,
+        "channel_sap": 4764710,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 27,
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 42,
+        "channel_sap": 4764710,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 45,
+        "channel_sap": 4764711,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 47,
+        "channel_sap": 4764717,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 27932734000165
+    },
+    {
+        "vtex_table": "eppnew",
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": "eppnew-ce",
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": "itaucard2022",
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": "picpay",
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": "santanderfa",
+        "channel_sap": 4764721,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 10,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 11,
+        "channel_sap": 4764718,
+        "documentType": 31,
+        "payerCode": 4789119,
+        "intermediatorCnpj": 17770708000124
+    },
+    {
+        "vtex_table": 12,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 13,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789420,
+        "intermediatorCnpj": 9083175000346
+    },
+    {
+        "vtex_table": 14,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 15,
+        "channel_sap": 4764728,
+        "documentType": 30,
+        "payerCode": 4789422,
+        "intermediatorCnpj": 43708379000100
+    },
+    {
+        "vtex_table": 16,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789423,
+        "intermediatorCnpj": 1534080000128
+    },
+    {
+        "vtex_table": 20,
+        "channel_sap": 4764715,
+        "documentType": 31,
+        "payerCode": 4789424,
+        "intermediatorCnpj": 35502377000123
+    },
+    {
+        "vtex_table": 25,
+        "channel_sap": 4764716,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 26,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789427,
+        "intermediatorCnpj": 42227623000141
+    },
+    {
+        "vtex_table": 30,
+        "channel_sap": 4764722,
+        "documentType": 31,
+        "payerCode": 4789428,
+        "intermediatorCnpj": 8845775000170
+    },
+    {
+        "vtex_table": 31,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 32,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789440,
+        "intermediatorCnpj": 5570714000159
+    },
+    {
+        "vtex_table": 33,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789441,
+        "intermediatorCnpj": 9339936000116
+    },
+    {
+        "vtex_table": 34,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 35,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789443,
+        "intermediatorCnpj": 45242914000105
+    },
+    {
+        "vtex_table": 36,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 37,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789444,
+        "intermediatorCnpj": 1438784006561
+    },
+    {
+        "vtex_table": 38,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789445,
+        "intermediatorCnpj": 75400218002771
+    },
+    {
+        "vtex_table": 39,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 4,
+        "channel_sap": 4764724,
+        "documentType": 30,
+        "payerCode": 4789113,
+        "intermediatorCnpj": 776574000660
+    },
+    {
+        "vtex_table": 40,
+        "channel_sap": 4764717,
+        "documentType": 31,
+        "payerCode": 4757142,
+        "intermediatorCnpj": 35703458000191
+    },
+    {
+        "vtex_table": 41,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789446,
+        "intermediatorCnpj": 37570726000170
+    },
+    {
+        "vtex_table": 43,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": 4789447,
+        "intermediatorCnpj": 33200056000149
+    },
+    {
+        "vtex_table": 44,
+        "channel_sap": 4764718,
+        "documentType": 31,
+        "payerCode": 4789448,
+        "intermediatorCnpj": 15011336000127
+    },
+    {
+        "vtex_table": 46,
+        "channel_sap": 4764727,
+        "documentType": 30,
+        "payerCode": 4789449,
+        "intermediatorCnpj": 15436940000103
+    },
+    {
+        "vtex_table": 5,
+        "channel_sap": 4764726,
+        "documentType": 30,
+        "payerCode": 4789114,
+        "intermediatorCnpj": 3007331000141
+    },
+    {
+        "vtex_table": 5,
+        "channel_sap": 4764726,
+        "documentType": 30,
+        "payerCode": 4789114,
+        "intermediatorCnpj": 3007331000141
+    },
+    {
+        "vtex_table": 6,
+        "channel_sap": 4764723,
+        "documentType": 30,
+        "payerCode": 4789115,
+        "intermediatorCnpj": 33041260199572
+    },
+    {
+        "vtex_table": 7,
+        "channel_sap": 4764730,
+        "documentType": 30,
+        "payerCode": null,
+        "intermediatorCnpj": 13481309019535
+    },
+    {
+        "vtex_table": 8,
+        "channel_sap": 4764729,
+        "documentType": 30,
+        "payerCode": 4789117,
+        "intermediatorCnpj": 45543915000181
+    },
+    {
+        "vtex_table": 9,
+        "channel_sap": 4764725,
+        "documentType": 30,
+        "payerCode": 4789118,
+        "intermediatorCnpj": 47960950000121
+    }
+]
